@@ -1,0 +1,142 @@
+Start testing: Oct 14 06:34 UTC
+----------------------------------------------------------
+26/169 Testing: t_byte_stream_construction
+26/169 Test: t_byte_stream_construction
+Command: "/home/luozx/code/sponge/debug/tests/byte_stream_construction"
+Directory: /home/luozx/code/sponge/debug
+"t_byte_stream_construction" start time: Oct 14 06:34 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_construction" end time: Oct 14 06:34 UTC
+"t_byte_stream_construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/169 Testing: t_byte_stream_one_write
+27/169 Test: t_byte_stream_one_write
+Command: "/home/luozx/code/sponge/debug/tests/byte_stream_one_write"
+Directory: /home/luozx/code/sponge/debug
+"t_byte_stream_one_write" start time: Oct 14 06:34 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_one_write" end time: Oct 14 06:34 UTC
+"t_byte_stream_one_write" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/169 Testing: t_byte_stream_two_writes
+28/169 Test: t_byte_stream_two_writes
+Command: "/home/luozx/code/sponge/debug/tests/byte_stream_two_writes"
+Directory: /home/luozx/code/sponge/debug
+"t_byte_stream_two_writes" start time: Oct 14 06:34 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_two_writes" end time: Oct 14 06:34 UTC
+"t_byte_stream_two_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/169 Testing: t_byte_stream_capacity
+29/169 Test: t_byte_stream_capacity
+Command: "/home/luozx/code/sponge/debug/tests/byte_stream_capacity"
+Directory: /home/luozx/code/sponge/debug
+"t_byte_stream_capacity" start time: Oct 14 06:34 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   1.48 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_capacity" end time: Oct 14 06:34 UTC
+"t_byte_stream_capacity" time elapsed: 00:00:01
+----------------------------------------------------------
+
+30/169 Testing: t_byte_stream_many_writes
+30/169 Test: t_byte_stream_many_writes
+Command: "/home/luozx/code/sponge/debug/tests/byte_stream_many_writes"
+Directory: /home/luozx/code/sponge/debug
+"t_byte_stream_many_writes" start time: Oct 14 06:34 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_byte_stream_many_writes" end time: Oct 14 06:34 UTC
+"t_byte_stream_many_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/169 Testing: t_webget
+31/169 Test: t_webget
+Command: "/home/luozx/code/sponge/tests/webget_t.sh"
+Directory: /home/luozx/code/sponge/debug
+"t_webget" start time: Oct 14 06:34 UTC
+Output:
+----------------------------------------------------------
+HTTP/1.1 200 OK
+Content-type: text/plain
+
+7SmXqWkrLKzVBCEalbSPqBcvs11Pw263K7x4Wv3JckI
+<end of output>
+Test time =   1.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_webget" end time: Oct 14 06:34 UTC
+"t_webget" time elapsed: 00:00:01
+----------------------------------------------------------
+
+53/169 Testing: t_address_dt
+53/169 Test: t_address_dt
+Command: "/home/luozx/code/sponge/debug/doctests/address_dt"
+Directory: /home/luozx/code/sponge/debug
+"t_address_dt" start time: Oct 14 06:34 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_address_dt" end time: Oct 14 06:34 UTC
+"t_address_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/169 Testing: t_parser_dt
+54/169 Test: t_parser_dt
+Command: "/home/luozx/code/sponge/debug/doctests/parser_dt"
+Directory: /home/luozx/code/sponge/debug
+"t_parser_dt" start time: Oct 14 06:34 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_parser_dt" end time: Oct 14 06:34 UTC
+"t_parser_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/169 Testing: t_socket_dt
+55/169 Test: t_socket_dt
+Command: "/home/luozx/code/sponge/debug/doctests/socket_dt"
+Directory: /home/luozx/code/sponge/debug
+"t_socket_dt" start time: Oct 14 06:34 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_socket_dt" end time: Oct 14 06:34 UTC
+"t_socket_dt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 14 06:34 UTC

@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/home/luozx/code/sponge/debug/libsponge",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/sponge.dir/byte_stream.cc.o -c /home/luozx/code/sponge/libsponge/byte_stream.cc",
+  "file": "/home/luozx/code/sponge/libsponge/byte_stream.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/libsponge",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/sponge.dir/util/address.cc.o -c /home/luozx/code/sponge/libsponge/util/address.cc",
+  "file": "/home/luozx/code/sponge/libsponge/util/address.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/libsponge",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/sponge.dir/util/buffer.cc.o -c /home/luozx/code/sponge/libsponge/util/buffer.cc",
+  "file": "/home/luozx/code/sponge/libsponge/util/buffer.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/libsponge",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/sponge.dir/util/eventloop.cc.o -c /home/luozx/code/sponge/libsponge/util/eventloop.cc",
+  "file": "/home/luozx/code/sponge/libsponge/util/eventloop.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/libsponge",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/sponge.dir/util/file_descriptor.cc.o -c /home/luozx/code/sponge/libsponge/util/file_descriptor.cc",
+  "file": "/home/luozx/code/sponge/libsponge/util/file_descriptor.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/libsponge",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/sponge.dir/util/parser.cc.o -c /home/luozx/code/sponge/libsponge/util/parser.cc",
+  "file": "/home/luozx/code/sponge/libsponge/util/parser.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/libsponge",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/sponge.dir/util/socket.cc.o -c /home/luozx/code/sponge/libsponge/util/socket.cc",
+  "file": "/home/luozx/code/sponge/libsponge/util/socket.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/libsponge",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/sponge.dir/util/tun.cc.o -c /home/luozx/code/sponge/libsponge/util/tun.cc",
+  "file": "/home/luozx/code/sponge/libsponge/util/tun.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/libsponge",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/sponge.dir/util/util.cc.o -c /home/luozx/code/sponge/libsponge/util/util.cc",
+  "file": "/home/luozx/code/sponge/libsponge/util/util.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/apps",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/webget.dir/webget.cc.o -c /home/luozx/code/sponge/apps/webget.cc",
+  "file": "/home/luozx/code/sponge/apps/webget.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/tests",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/byte_stream_many_writes.dir/byte_stream_many_writes.cc.o -c /home/luozx/code/sponge/tests/byte_stream_many_writes.cc",
+  "file": "/home/luozx/code/sponge/tests/byte_stream_many_writes.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/tests",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/byte_stream_capacity.dir/byte_stream_capacity.cc.o -c /home/luozx/code/sponge/tests/byte_stream_capacity.cc",
+  "file": "/home/luozx/code/sponge/tests/byte_stream_capacity.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/tests",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/spongechecks.dir/byte_stream_test_harness.cc.o -c /home/luozx/code/sponge/tests/byte_stream_test_harness.cc",
+  "file": "/home/luozx/code/sponge/tests/byte_stream_test_harness.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/tests",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/byte_stream_one_write.dir/byte_stream_one_write.cc.o -c /home/luozx/code/sponge/tests/byte_stream_one_write.cc",
+  "file": "/home/luozx/code/sponge/tests/byte_stream_one_write.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/tests",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/byte_stream_two_writes.dir/byte_stream_two_writes.cc.o -c /home/luozx/code/sponge/tests/byte_stream_two_writes.cc",
+  "file": "/home/luozx/code/sponge/tests/byte_stream_two_writes.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/tests",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/byte_stream_construction.dir/byte_stream_construction.cc.o -c /home/luozx/code/sponge/tests/byte_stream_construction.cc",
+  "file": "/home/luozx/code/sponge/tests/byte_stream_construction.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/doctests",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/address_dt.dir/address_dt.cc.o -c /home/luozx/code/sponge/doctests/address_dt.cc",
+  "file": "/home/luozx/code/sponge/doctests/address_dt.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/doctests",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/parser_dt.dir/parser_dt.cc.o -c /home/luozx/code/sponge/doctests/parser_dt.cc",
+  "file": "/home/luozx/code/sponge/doctests/parser_dt.cc"
+},
+{
+  "directory": "/home/luozx/code/sponge/debug/doctests",
+  "command": "/usr/bin/c++  -I/home/luozx/code/sponge/libsponge/util -I/home/luozx/code/sponge/libsponge/tcp_helpers -I/home/luozx/code/sponge/libsponge  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -std=gnu++17 -o CMakeFiles/socket_dt.dir/socket_dt.cc.o -c /home/luozx/code/sponge/doctests/socket_dt.cc",
+  "file": "/home/luozx/code/sponge/doctests/socket_dt.cc"
+}
+]
