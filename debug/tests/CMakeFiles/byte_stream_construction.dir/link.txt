@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -O0 -rdynamic CMakeFiles/byte_stream_construction.dir/byte_stream_construction.cc.o -o byte_stream_construction  libspongechecks.a ../libsponge/libsponge.a 
